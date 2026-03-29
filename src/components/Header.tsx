@@ -12,10 +12,7 @@ export default function Header() {
           <p className="text-xs text-muted-foreground">Multi-Agent Intelligence Briefing System</p>
         </div>
       </div>
-      <div className="flex items-center gap-2">
-        <span className="text-xs text-muted-foreground font-mono">GenAI Hackathon • Track 8</span>
-        <div className="w-2 h-2 rounded-full bg-accent animate-pulse-glow" />
-      </div>
+      <div className="w-2 h-2 rounded-full bg-accent animate-pulse-glow" />
     </header>
   );
 }
