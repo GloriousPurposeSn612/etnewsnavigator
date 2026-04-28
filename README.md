@@ -1,6 +1,6 @@
 # ET AI News Navigator
 
-AI-powered multi-agent news intelligence platform built for the Economic Times GenAI Hackathon (Track 8: AI-Native News Experience).
+AI-powered multi-agent news intelligence platform.
 
 ---
 
